@@ -28,3 +28,4 @@ C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Basics\obj\Debug\net6.0\refint\Basics
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Basics\obj\Debug\net6.0\Basics.pdb
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Basics\obj\Debug\net6.0\ref\Basics.dll
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Basics\obj\Debug\net6.0\Basics.sourcelink.json
