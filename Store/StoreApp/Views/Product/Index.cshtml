@@ -1,0 +1,25 @@
+@model List<StoreApp.Models.Product>
+
+@section Footer {
+    <p>only for Index Footer</p>
+}
+
+@{
+    Layout = "_Layout";
+}
+
+<body>
+
+    @foreach (StoreApp.Models.Product prd in Model)
+    {
+        <div>
+            <h3>@prd.ProductName</h3>
+            <p>@prd.Price</p>
+            <p>
+                <a href="/Product/Get/@prd.ProductId">Get Details</a>
+            </p>
+        </div>
+    }
+</body>
+
+</html>
