@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/emre1/OneDrive/Masaüstü/ASP.NET/Store/StoreApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emre1/OneDrive/Masaüstü/ASP.NET/Store/StoreApp/Views/Product/Get.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

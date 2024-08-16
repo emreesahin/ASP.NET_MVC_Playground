@@ -54,3 +54,5 @@ C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\runti
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\obj\Debug\net6.0\StoreApp.csproj.Up2Date
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cache
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cs
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\StoreApp.staticwebassets.runtime.json
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\libman.json
