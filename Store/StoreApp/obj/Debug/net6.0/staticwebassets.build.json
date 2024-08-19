@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7RItpnCJebWFeTZsD7TalzoIYIiK0Li1ikaEgGQkkfI=",
+  "Hash": "gy9B5vcPYPum0z0YuL8ljFUy3wzT9K7HtgFxI/mG3Cg=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -17,7 +17,7 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\css\\site.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -36,7 +36,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\html\\Error.html",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\html\\Error.html",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -55,7 +55,26 @@
       "OriginalItemSpec": "wwwroot\\html\\Error.html"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\images\\default.jpeg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/default.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\js\\site.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -74,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -93,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -112,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -131,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -150,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -169,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -188,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -207,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -226,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -245,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -264,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -283,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -302,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -321,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -340,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -359,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -378,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -397,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -416,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -435,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -454,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -473,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -492,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -511,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -530,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -549,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -568,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -587,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -606,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -625,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -644,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -663,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -682,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -701,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -720,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -739,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -758,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -777,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -796,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -815,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -834,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -853,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -872,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -891,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -910,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -929,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -948,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -967,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -986,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1005,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1024,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1043,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1062,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1081,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1100,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1119,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1138,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1157,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1176,7 +1195,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1195,7 +1214,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1214,7 +1233,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1233,7 +1252,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1252,7 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_maps.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1271,7 +1290,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1290,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1309,7 +1328,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1328,7 +1347,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1347,7 +1366,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1366,7 +1385,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1385,7 +1404,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1404,7 +1423,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1423,7 +1442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1442,7 +1461,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1461,7 +1480,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1480,7 +1499,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1499,7 +1518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1518,7 +1537,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1537,7 +1556,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1556,7 +1575,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1575,7 +1594,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1594,7 +1613,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1613,7 +1632,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1632,7 +1651,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1651,7 +1670,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1670,7 +1689,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1689,7 +1708,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1708,7 +1727,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1727,7 +1746,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1746,7 +1765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1765,7 +1784,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1784,7 +1803,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1803,7 +1822,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1822,7 +1841,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1841,7 +1860,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1860,7 +1879,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1879,7 +1898,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1898,7 +1917,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1917,7 +1936,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1936,7 +1955,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1955,7 +1974,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1974,7 +1993,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -1993,7 +2012,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2012,7 +2031,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2031,7 +2050,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2050,7 +2069,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2069,7 +2088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2088,7 +2107,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2107,7 +2126,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2126,7 +2145,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2145,7 +2164,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2164,7 +2183,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2183,7 +2202,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2202,7 +2221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2221,7 +2240,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2240,7 +2259,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2259,7 +2278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2278,7 +2297,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2297,7 +2316,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2316,7 +2335,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2335,7 +2354,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2354,7 +2373,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2373,7 +2392,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2392,7 +2411,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2411,7 +2430,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2430,7 +2449,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2449,7 +2468,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2468,7 +2487,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2487,7 +2506,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2506,7 +2525,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2525,7 +2544,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2544,7 +2563,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2563,7 +2582,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2582,7 +2601,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2601,7 +2620,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2620,7 +2639,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2639,7 +2658,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2658,7 +2677,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2677,7 +2696,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2696,7 +2715,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2715,7 +2734,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2734,7 +2753,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2753,7 +2772,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2772,7 +2791,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2791,7 +2810,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2810,7 +2829,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2829,7 +2848,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2848,7 +2867,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2867,7 +2886,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2886,7 +2905,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2905,7 +2924,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2924,7 +2943,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2943,7 +2962,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2962,7 +2981,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -2981,7 +3000,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3000,7 +3019,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3019,7 +3038,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3038,7 +3057,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3057,7 +3076,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3076,7 +3095,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3095,7 +3114,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3114,7 +3133,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3133,7 +3152,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3152,7 +3171,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3171,7 +3190,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3190,7 +3209,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3209,7 +3228,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3228,7 +3247,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3247,7 +3266,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3266,7 +3285,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3285,7 +3304,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3304,7 +3323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3323,7 +3342,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3342,7 +3361,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3361,7 +3380,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3380,7 +3399,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3399,7 +3418,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3418,7 +3437,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3437,7 +3456,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3456,7 +3475,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3475,7 +3494,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3494,7 +3513,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3513,7 +3532,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3532,7 +3551,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3551,7 +3570,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",
@@ -3570,7 +3589,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\wwwroot\\",

@@ -1,3 +1,4 @@
+@using Entities.Models
 @model List<Product>
 
 @section Footer {
@@ -5,13 +6,10 @@
 }
 
 <body>
-
-        <div class="row my-3">
-    @foreach (StoreApp.Models.Product prd in Model)
-    {
+    <div class="row my-3">
+        @foreach (Product prd in Model)
+        {
             <partial name="_ProductCard" model="@prd"></partial>
-    }
-        </div>
+        }
+    </div>
 </body>
-
-</html>

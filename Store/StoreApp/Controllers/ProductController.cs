@@ -1,5 +1,7 @@
+using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
-using StoreApp.Models;
+using Repositories;
+
 
 namespace StoreApp.Controllers
 {
@@ -13,14 +15,15 @@ namespace StoreApp.Controllers
             _context = context;
         }
 
-    
+
         public IActionResult Index()
         {
             var model = _context.Products.ToList();
             return View(model);
         }
 
-        public IActionResult Get(int id) {
+        public IActionResult Get(int id)
+        {
             Product product = _context.Products.First(p => p.ProductId.Equals(id));
             return View(product);
         }

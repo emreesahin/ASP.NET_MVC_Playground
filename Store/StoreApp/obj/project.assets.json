@@ -548,6 +548,31 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
       }
     }
   },
@@ -1208,13 +1233,23 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.EntityFrameworkCore >= 6.0.0",
+      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.0"
+      "Repositories >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1224,11 +1259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\StoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\StoreApp.csproj",
       "projectName": "StoreApp",
-      "projectPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\StoreApp.csproj",
+      "projectPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\StoreApp.csproj",
       "packagesPath": "C:\\Users\\emre1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\StoreApp\\obj\\",
+      "outputPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\StoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1248,7 +1283,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Repositories\\Repositories.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1266,17 +1308,9 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.0, )"
-          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
-            "target": "Package",
-            "version": "[6.0.0, )"
-          },
-          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[6.0.0, )"
           }

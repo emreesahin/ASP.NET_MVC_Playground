@@ -56,3 +56,7 @@ C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\obj\Debug\net6.0\Store
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cs
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\StoreApp.staticwebassets.runtime.json
 C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\libman.json
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\Entities.dll
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\Store\StoreApp\bin\Debug\net6.0\Entities.pdb
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\store\storeapp\bin\Debug\net6.0\Repositories.dll
+C:\Users\emre1\OneDrive\Masaüstü\ASP.NET\store\storeapp\bin\Debug\net6.0\Repositories.pdb
