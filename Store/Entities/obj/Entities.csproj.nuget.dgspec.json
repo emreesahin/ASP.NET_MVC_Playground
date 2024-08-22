@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\Entities.csproj": {}
+    "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\Entities.csproj": {
+    "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\emre1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\store\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\emre1\\OneDrive\\Masaüstü\\ASP.NET\\Store\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
